@@ -132,6 +132,7 @@ PaddleScience 是一个基于深度学习框架 PaddlePaddle 开发的科学计�
 <!-- --8<-- [start:update] -->
 ## 🕘最近更新
 
+- 基于Flow Matching的引力波参数估计方法 [Unlocking New Paths for Efficient Analysis of Gravitational Waves from Extreme-Mass-Ratio Inspirals with Machine Learning] ([DOI:10.1088/0256-307X/42/8/081101](https://iopscience.iop.org/article/10.1088/0256-307X/42/8/081101)) 被 Chinese Physics Letters 接受。
 - [沐曦MetaX](https://www.metax-tech.com/) 和 [太初元碁Tecorigin](http://www.tecorigin.com/cn/index.html) 完成与 PaddleScience 的第一阶段适配工作，详见：[多硬件支持](https://paddlescience-docs.readthedocs.io/zh-cn/latest/zh/multi_device/)。
 - 基于 PaddleScience 的 ADR 方程求解方法 [Physics-informed neural networks for advection–diffusion–Langmuir adsorption processes](https://doi.org/10.1063/5.0221924) 被 Physics of Fluids 2024 接受。
 - 添加 [IJCAI 2024: 任意三维几何外形车辆的风阻快速预测竞赛](https://competition.atomgit.com/competitionInfo?id=7f3f276465e9e845fd3a811d2d6925b5)，track A, B, C 的 paddle/pytorch 代码链接。
